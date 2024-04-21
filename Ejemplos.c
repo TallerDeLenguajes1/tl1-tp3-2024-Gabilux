@@ -17,7 +17,7 @@ return 0;
 }
 */
 
-
+/*
 // Ejemplo 2 - Trabajando con cadena de caracteres con reserva de memoria
 #include <stdio.h>
 #include <stdlib.h>
@@ -31,11 +31,11 @@ int main() {
     free(Buff);
     return 0;
     }
+*/
 
 
 
-/*
-Ejemplo 3 - reserva dinámica de memoria con variable auxiliar
+// Ejemplo 3 - reserva dinámica de memoria con variable auxiliar
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -66,4 +66,3 @@ int main() {
     free(Apellido);
     return 0;
 }
-*/
